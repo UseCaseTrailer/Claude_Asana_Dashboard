@@ -5,13 +5,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-<<<<<<< HEAD
     "build": "next build",
     "start": "next start"
-=======
-    "build": "next build",
-    "start": "next start"
->>>>>>> b9853e6 (Initial Next.js dashboard setup)
   },
   "dependencies": {
     "asana": "^3.0.12",
