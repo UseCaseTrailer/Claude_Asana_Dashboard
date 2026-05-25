@@ -4,7 +4,7 @@
   "description": "altudo.co Executive Dashboard — live Asana data via Vercel serverless API",
   "private": true,
   "scripts": {
-    "dev": "vercel dev",
+    "dev": "next dev",
     "build": "echo 'No build step required'",
     "start": "vercel dev"
   },
